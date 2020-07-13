@@ -27,4 +27,4 @@ My pronouns are *he/him*.
   <img width="460" title="This why I love Swear Treak." alt="A Star Trek GIF saying 'everything is fucked'" src="https://media.giphy.com/media/H4zaNj90DWiXcYf1it/giphy.gif">
 </p>
 
-[![click me to see a rando user!](https://randos.online/u/yourusername)](https://randos.online/u/yourusername/next)
+[![click me to see a rando user!](https://randos.online/u/agucova)](https://randos.online/u/agucova/next)
