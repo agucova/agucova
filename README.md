@@ -52,7 +52,7 @@ My pronouns are *he/him*.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 
-
+## Other stuff
 <p align="center">
   <img width="460" title="This why I love Swear Treak." alt="A Star Trek GIF saying 'everything is fucked'" src="https://media.giphy.com/media/H4zaNj90DWiXcYf1it/giphy.gif">
   <br>
