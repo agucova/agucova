@@ -41,11 +41,24 @@ I program in <img alt="C" height="13" width="13" src="/icons/c.svg" /> and Pytho
 
 My pronouns are *he/him*.
 
+## Tools & Languages
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nim/nim.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+
+
 <p align="center">
   <img width="460" title="This why I love Swear Treak." alt="A Star Trek GIF saying 'everything is fucked'" src="https://media.giphy.com/media/H4zaNj90DWiXcYf1it/giphy.gif">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=agucova&show_icons=true&hide=[%22contribs%22]" />
+</a>
 </p>
-
-[![My github stats](https://github-readme-stats.vercel.app/api?username=agucova)](https://github.com/anuraghazra/github-readme-stats)
 
 [![click me to see a rando user!](https://randos.online/u/agucova)](https://randos.online/u/agucova/next)
 ![Visitor Count](https://profile-counter.glitch.me/agucova/count.svg)
