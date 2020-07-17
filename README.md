@@ -15,6 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br/>
+
+<a href="https://keybase.io/agucova">
+  <img align="left" alt="Agustín's Keybase" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keybase.svg" />
+</a>
+<a href="https://twitter.com/austinc3301">
+  <img align="left" alt="Agustín's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/agucova/">
+  <img align="left" alt="Agustín's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/agucova">
+  <img align="left" alt="Agustín's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/agustin_covarrubias/">
+  <img align="left" alt="Agustín's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+</br>
+
 I'm a student that does a bit of everything, none specially well. I'm from Chile (🇨🇱) and I'm currently studying engineering at the [Universidad Católica de Chile](https://uc.cl/).
 
 I program in <img alt="C" height="13" width="13" src="/icons/c.svg" /> and Python <img height="13" width="13" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png" /> but I'm constantly learning and toying with new languages, currently Nim <img height="13" width="13" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nim-logo.png/1024px-Nim-logo.png" />. My main interest is biomedical engineering, but I'm also interested in Computer Science (go [CS50x](https://online-learning.harvard.edu/course/cs50-introduction-computer-science)!), [Quantified Self](https://github.com/woop/awesome-quantified-self) and Meta-Science, along with a bunch of other things. I'm a yearly organizer of [March for Science Chile](https://marchforscience.com/).
