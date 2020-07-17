@@ -27,5 +27,7 @@ My pronouns are *he/him*.
   <img width="460" title="This why I love Swear Treak." alt="A Star Trek GIF saying 'everything is fucked'" src="https://media.giphy.com/media/H4zaNj90DWiXcYf1it/giphy.gif">
 </p>
 
+[![My github stats](https://github-readme-stats.vercel.app/api?username=agucova)](https://github.com/anuraghazra/github-readme-stats)
+
 [![click me to see a rando user!](https://randos.online/u/agucova)](https://randos.online/u/agucova/next)
 ![Visitor Count](https://profile-counter.glitch.me/agucova/count.svg)
