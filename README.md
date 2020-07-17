@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there, I'm Agustín 👋
 <!--
 **agucova/agucova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<br/>
+<br>
 
 <a href="https://keybase.io/agucova">
   <img align="left" alt="Agustín's Keybase" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keybase.svg" />
@@ -32,7 +30,8 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/agustin_covarrubias/">
   <img align="left" alt="Agustín's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-</br>
+<br>
+<br><br>
 
 I'm a student that does a bit of everything, none specially well. I'm from Chile (🇨🇱) and I'm currently studying engineering at the [Universidad Católica de Chile](https://uc.cl/).
 
