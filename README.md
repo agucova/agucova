@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a student that does a bit of everything, none specially well. I'm from Chile (🇨🇱) and I'm currently studying engineering at the [Universidad Católica de Chile](https://uc.cl/).
 
-I program in C and Python 🐍, but I'm constantly learning and toying with new languages, currently Nim 👑. My main interest is biomedical engineering, but I'm also interested in Computer Science (go [CS50x](https://online-learning.harvard.edu/course/cs50-introduction-computer-science)!), [Quantified Self](https://github.com/woop/awesome-quantified-self) and Meta-Science, along with a bunch of other things. I'm a yearly organizer of [March for Science Chile](https://marchforscience.com/).
+I program in C <img height="13" width="13" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/C.svg" /> and Python <img height="13" width="13" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Python.svg" />, but I'm constantly learning and toying with new languages, currently Nim <img height="13" width="13" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Nim.svg" />. My main interest is biomedical engineering, but I'm also interested in Computer Science (go [CS50x](https://online-learning.harvard.edu/course/cs50-introduction-computer-science)!), [Quantified Self](https://github.com/woop/awesome-quantified-self) and Meta-Science, along with a bunch of other things. I'm a yearly organizer of [March for Science Chile](https://marchforscience.com/).
 
 💬 Feel free to contact me if you're looking to collaborate on something!
 
@@ -28,3 +28,4 @@ My pronouns are *he/him*.
 </p>
 
 [![click me to see a rando user!](https://randos.online/u/agucova)](https://randos.online/u/agucova/next)
+![Visitor Count](https://profile-counter.glitch.me/agucova/count.svg)
