@@ -63,5 +63,5 @@ My pronouns are *he/him*.
 </a>
 </p>
 
-[![click me to see a rando user!](https://randos.online/u/agucova)](https://randos.online/u/agucova/next)
-![Visitor Count](https://profile-counter.glitch.me/agucova/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/agucova/count.svg)
+[find randos](https://randos.online/u/agucova/next)
