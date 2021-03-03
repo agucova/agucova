@@ -63,7 +63,7 @@ My pronouns are *he/him*.
 </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agucova&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=agucova&layout=compact" />
 </a>
 <p align="center">
     <img src="https://profile-counter.glitch.me/agucova/count.svg" />
