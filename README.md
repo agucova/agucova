@@ -62,7 +62,12 @@ My pronouns are *he/him*.
 </a>
 </p>
 <p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agucova&layout=compact" />
+</a>
+<p align="center">
     <img src="https://profile-counter.glitch.me/agucova/count.svg" />
 </p>
+
 
 [find randos](https://randos.online/u/agucova/next)
