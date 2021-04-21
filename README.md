@@ -65,5 +65,4 @@ My pronouns are *he/him*.
     <img src="https://profile-counter.glitch.me/agucova/count.svg" />
 </p>
 
-
-[find randos](https://randos.online/u/agucova/next)
+![Metrics](https://metrics.lecoq.io/agucova?template=classic&repositories.forks=true&base.header=0&base.activity=0&base.community=0&base.repositories=0&people=1&notable=1&achievements=1&lines=1&isocalendar=1&isocalendar.duration=half-year&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&achievements.ignored=Reviewer%2C%20Scripter%2C%20Verified%2C%20Explorer%2C%20Great-follower%2C%20Great_worker&config.timezone=America%2FSantiago)
