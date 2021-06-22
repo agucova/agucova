@@ -16,19 +16,19 @@ Here are some ideas to get you started:
 <br>
 
 <a href="https://keybase.io/agucova">
-  <img align="left" alt="Agustín's Keybase" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keybase.svg" />
+  <img align="left" alt="Agustín's Keybase" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keybase.svg" />
 </a>
 <a href="https://twitter.com/austinc3301">
-  <img align="left" alt="Agustín's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Agustín's Twitter" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/agucova/">
-  <img align="left" alt="Agustín's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Agustín's LinkedIn" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/agucova">
-  <img align="left" alt="Agustín's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Agustín's Telegram" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/agustin_covarrubias/">
-  <img align="left" alt="Agustín's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Agustín's Instagram" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br>
 <br><br>
