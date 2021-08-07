@@ -2433,7 +2433,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="48.90101938481417 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="48.902762453592715 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2748,7 +2748,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="39.141414141414145 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="40.70707070707071 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2780,11 +2780,11 @@
                   Inspirationer
                   
                     <span class="gh">
-                      ranked 323k out of 238m repositories
+                      ranked 311k out of 238m repositories
                     </span>
                   
                 </div>
-                                <div class="text">Maintaining a repository which has been forked 26 times</div>
+                                <div class="text">Maintaining a repository which has been forked 27 times</div>
                             </div>
                         </div>
                         <div class="achievement secret largeable-width-half">
@@ -2834,7 +2834,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 07/08/2021, 12:17 (timezone America/Santiago) with lowlighter/metrics@3.12.0</span>
+                <span>Last updated 07/08/2021, 13:16 (timezone America/Santiago) with lowlighter/metrics@3.12.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
