@@ -51,7 +51,7 @@ My pronouns are *he/him*.
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
-Also [Pluto](https://github.com/fonsp/Pluto.jl), [Caddy](https://caddyserver.com/) and [systemd](https://systemd.io/).
+Also [Pluto](https://github.com/fonsp/Pluto.jl), [Caddy](https://caddyserver.com/), [systemd](https://systemd.io/) and [netdata](https://www.netdata.cloud/)
 
 ## Frameworks and libraries
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
