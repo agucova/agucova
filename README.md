@@ -13,25 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br>
-
-<a href="https://keybase.io/agucova">
-  <img align="left" alt="Agustín's Keybase" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keybase.svg" />
-</a>
-<a href="https://twitter.com/austinc3301">
-  <img align="left" alt="Agustín's Twitter" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/agucova/">
-  <img align="left" alt="Agustín's LinkedIn" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/agucova">
-  <img align="left" alt="Agustín's Telegram" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/agustin_covarrubias/">
-  <img align="left" alt="Agustín's Instagram" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<br>
-<br><br>
 
 I'm a student and open sourcerer that does a bit of everything, nothing specially well. I'm from Chile (🇨🇱) and I'm currently studying engineering at the [Universidad Católica de Chile](https://uc.cl/).
 
@@ -40,6 +21,19 @@ I program in C and Python <img height="13" width="13" src="https://upload.wikime
 💬 Feel free to contact me if you're looking to collaborate on something!
 
 My pronouns are *he/him*.
+
+## How to reach me
+<a href="https://t.me/agucova">
+  <img align="left" alt="Agustín's Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="https://twitter.com/austinc3301">
+  <img align="left" alt="Agustín's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/agucova/">
+  <img align="left" alt="Agustín's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<br/>
+
 
 ## Tools & Languages
 <code><img title="Python" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
