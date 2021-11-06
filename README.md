@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a student and open sourcerer that does a bit of everything, nothing specially well. I'm from Chile (🇨🇱) and I'm currently studying engineering at [UC Chile](https://uc.cl/).
+I'm a student and open sourcerer that does a bit of everything, nothing specially well. I'm from Chile (🇨🇱) and I'm currently studying engineering at [UC | Chile](https://uc.cl/).
 
 I program mostly in [Julia](https://julialang.org/) and Python but I'm constantly learning and toying with new languages, currently [Rust](https://www.rust-lang.org/). I'm interested in biomedical engineering, Computer Science (go [CS50x](https://online-learning.harvard.edu/course/cs50-introduction-computer-science)!), [Quantified Self](https://github.com/woop/awesome-quantified-self) and Meta-Science, along with a bunch of other things. I'm a yearly organizer of [March for Science Chile](https://marchforscience.com/).
 
