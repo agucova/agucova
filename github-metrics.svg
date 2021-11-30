@@ -1434,7 +1434,7 @@
         Most used languages
       </h3>
                 <small>
-            estimation from 7529 edited files from 1589 commits
+            estimation from 7531 edited files from 1611 commits
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
@@ -1791,7 +1791,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3.875 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="5.6575 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1815,12 +1815,12 @@
                   
                     <div class="value-wrapper">
                       <div class="value">
-                        550
+                        573
                       </div>
                     </div>
                   
                 </div>
-                                <div class="text">Repositories have been deployed 550 times</div>
+                                <div class="text">Repositories have been deployed 573 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
