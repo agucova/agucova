@@ -59,20 +59,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 103mb of code in 9380 edited files across 1617 commits</small>
+                <small>estimation from 127mb of code in 9983 edited files across 1881 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="356.0881875543925" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="356.0881875543925" y="0" width="37.739976348721996" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="393.8281639031145" y="0" width="33.98334485233686" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="427.81150875545137" y="0" width="24.514428611026048" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="452.3259373664774" y="0" width="4.760571358713874" height="8" fill="#a270ba"/>
-                    <rect mask="url(#languages-bar)" x="457.08650872519127" y="0" width="1.256052318466758" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.34256104365807" y="0" width="1.2312753655114983" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="459.57383640916953" y="0" width="0.42616359083046973" height="8" fill="#a86454"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="355.93229676123633" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="355.93229676123633" y="0" width="38.04673306965282" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="393.97902983088915" y="0" width="34.863617876411084" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="428.8426477073003" y="0" width="23.119067516602364" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="451.9617152239026" y="0" width="4.52310062076294" height="8" fill="#a270ba"/>
+                    <rect mask="url(#languages-bar)" x="456.48481584466555" y="0" width="1.1845578298307522" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="457.6693736744963" y="0" width="1.1711679523270135" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="458.8405416268233" y="0" width="1.159458373176685" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -119,9 +119,9 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#a86454" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Pug
+                        Dart
                     </div>
                 </div>
                 <div class="row footnote warning">
@@ -224,7 +224,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="315.37333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="315.58 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -243,10 +243,10 @@
                                     <span class="prefix">Master</span>
                                     stargazer
                                     <div class="value-wrapper">
-                                        <div class="value">4052</div>
+                                        <div class="value">4054</div>
                                     </div>
                                 </div>
-                                <div class="text">Starred 4052 repositories</div>
+                                <div class="text">Starred 4054 repositories</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
