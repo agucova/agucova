@@ -59,20 +59,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 150mb of code in 10112 edited files across 1869 commits</small>
+                <small>estimation from 102mb of code in 9416 edited files across 1627 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="352.8904698704518" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="352.8904698704518" y="0" width="37.71668884333966" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="390.6071587137915" y="0" width="36.3473916124303" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="426.95455032622175" y="0" width="22.921490050601747" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="449.8760403768235" y="0" width="4.488246250139063" height="8" fill="#a270ba"/>
-                    <rect mask="url(#languages-bar)" x="454.36428662696255" y="0" width="3.325004773162457" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="457.689291400125" y="0" width="1.161159053995983" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="458.850450454121" y="0" width="1.1495495458790037" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="359.916321324084" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="359.916321324084" y="0" width="36.064752109396586" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="395.98107343348056" y="0" width="33.575667597558365" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="429.55674103103894" y="0" width="23.377844069599643" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="452.93458510063857" y="0" width="4.543728785699989" height="8" fill="#a270ba"/>
+                    <rect mask="url(#languages-bar)" x="457.4783138863386" y="0" width="1.1741886363494702" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="458.65250252268805" y="0" width="0.9410924930206207" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.5935950157087" y="0" width="0.40640498429134686" height="8" fill="#a86454"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -107,21 +107,21 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        C
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Rust
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Dart
+                        Shell
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#a86454" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Pug
                     </div>
                 </div>
                 <div class="row footnote warning">
@@ -418,7 +418,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="5.1925 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="5.9675 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -440,10 +440,10 @@
                                     <span class="prefix">Super</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">567</div>
+                                        <div class="value">577</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 567 times</div>
+                                <div class="text">Repositories have been deployed 577 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
