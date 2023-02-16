@@ -59,7 +59,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 109mb of code in 9732 edited files across 1778 commits</small>
+                <small>estimation from 109mb of code in 9729 edited files across 1774 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -534,7 +534,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 69.8k out of 377m repositories</span>
+                                    <span class="gh">ranked 69.7k out of 377m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">546</div>
                                     </div>
