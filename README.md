@@ -63,10 +63,6 @@ Also [Pluto](https://github.com/fonsp/Pluto.jl), [Caddy](https://caddyserver.com
 
 Also [Hugo](https://gohugo.io/), [DataFrames.jl](https://github.com/JuliaData/DataFrames.jl) and [JuMP](https://jump.dev/).
 
-
-## Other stuff
-![Metrics](https://metrics.lecoq.io/agucova?template=classic&repositories.forks=true&commits.authoring=.user.login%2C%20agucova%40gmail.com%2C%20agucova%40uc.cl&base.header=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&people=1&lines=1&achievements=1&languages.ignored=html%2C%20css%2C%20java%2C%20php&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=true&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&achievements.ignored=explorer%2C%20reviewer%2C%20gister%2C%20worker%2C%20follower&config.timezone=America%2FSantiago)
-
 <p align="center">
     <img src="https://profile-counter.glitch.me/agucova/count.svg" />
 </p>
