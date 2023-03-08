@@ -59,20 +59,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 109mb of code in 9733 edited files across 1779 commits</small>
+                <small>estimation from 148mb of code in 9908 edited files across 1784 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="358.74934980019117" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="358.74934980019117" y="0" width="36.98758070905346" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="395.73693050924464" y="0" width="35.72415719665482" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="431.46108770589944" y="0" width="20.717192393217374" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="452.1782800991168" y="0" width="4.585467348262838" height="8" fill="#a270ba"/>
-                    <rect mask="url(#languages-bar)" x="456.76374744737967" y="0" width="1.1804372495199076" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="457.94418469689964" y="0" width="1.1686349940212106" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.1128196909208" y="0" width="0.8871803090791882" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="356.10619648927013" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="356.10619648927013" y="0" width="36.71506775127794" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="392.8212642405481" y="0" width="36.603115712515354" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="429.42437995306346" y="0" width="20.56455458161543" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="449.9889345346789" y="0" width="4.551683055105423" height="8" fill="#a270ba"/>
+                    <rect mask="url(#languages-bar)" x="454.5406175897843" y="0" width="3.1276173982600186" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="457.66823498804433" y="0" width="1.1717401560585792" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="458.8399751441029" y="0" width="1.1600248558971256" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -107,6 +107,12 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        C
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Rust
@@ -116,12 +122,6 @@
                             <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Dart
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Shell
                     </div>
                 </div>
                 <div class="row footnote warning">
@@ -511,7 +511,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="86.88688688688688 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="87.04204204204204 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -534,12 +534,12 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 68.7k out of 383m repositories</span>
+                                    <span class="gh">ranked 68.6k out of 383m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">561</div>
+                                        <div class="value">562</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 561 stars</div>
+                                <div class="text">Maintaining a repository with 562 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
