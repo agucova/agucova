@@ -59,20 +59,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 148mb of code in 9954 edited files across 1792 commits</small>
+                <small>estimation from 109mb of code in 9779 edited files across 1787 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="355.5534201688453" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="355.5534201688453" y="0" width="37.260345982819906" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="392.8137661516652" y="0" width="36.65807570717485" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="429.47184185884004" y="0" width="20.53263264674075" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="450.0044745055808" y="0" width="4.544617571169041" height="8" fill="#a270ba"/>
-                    <rect mask="url(#languages-bar)" x="454.54909207674984" y="0" width="3.122762462136606" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="457.67185453888646" y="0" width="1.1699212879278205" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="458.8417758268143" y="0" width="1.1582241731857157" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="358.18834366512226" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="358.18834366512226" y="0" width="36.92974015906865" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="395.118083824191" y="0" width="36.3876325476395" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="431.5057163718305" y="0" width="20.68479519991104" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="452.1905115717415" y="0" width="4.5782966723690235" height="8" fill="#a270ba"/>
+                    <rect mask="url(#languages-bar)" x="456.7688082441106" y="0" width="1.1785913018145993" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="457.9473995459251" y="0" width="1.1668075024824323" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.1142070484076" y="0" width="0.8857929515924556" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -83,15 +83,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Python
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         JavaScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Python
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -107,12 +107,6 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        C
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Rust
@@ -122,6 +116,12 @@
                             <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Dart
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Shell
                     </div>
                 </div>
                 <div class="row footnote warning">
@@ -534,7 +534,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 68.6k out of 384m repositories</span>
+                                    <span class="gh">ranked 68.5k out of 384m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">564</div>
                                     </div>
