@@ -59,7 +59,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 148mb of code in 10031 edited files across 1865 commits</small>
+                <small>estimation from 148mb of code in 10026 edited files across 1860 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -336,7 +336,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="41.333333333333336 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="42.36666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -361,12 +361,12 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 84k out of 114m users</span>
+                                    <span class="gh">ranked 83k out of 114m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">140</div>
+                                        <div class="value">141</div>
                                     </div>
                                 </div>
-                                <div class="text">Published 140 public repositories</div>
+                                <div class="text">Published 141 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
