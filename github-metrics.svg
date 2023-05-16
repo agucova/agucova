@@ -59,20 +59,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 93.5mb of code in 4549 edited files across 1842 commits</small>
+                <small>estimation from 86mb of code in 3891 edited files across 1555 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="353.21126717804907" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="353.21126717804907" y="0" width="42.31911875118659" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="395.53038592923565" y="0" width="36.41518940768723" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="431.9455753369229" y="0" width="20.397377114844453" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="452.34295245176736" y="0" width="4.888502686275549" height="8" fill="#a270ba"/>
-                    <rect mask="url(#languages-bar)" x="457.2314551380429" y="0" width="1.162214612958374" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="458.39366975100126" y="0" width="0.8734847362366043" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.2671544872379" y="0" width="0.7328455127621311" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="358.3632800033133" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="358.3632800033133" y="0" width="42.504357274589914" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="400.8676372779032" y="0" width="36.51081827107438" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="437.3784555489776" y="0" width="15.552371346503827" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="452.9308268954814" y="0" width="4.234230612747068" height="8" fill="#a270ba"/>
+                    <rect mask="url(#languages-bar)" x="457.1650575082285" y="0" width="1.2391421394863849" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="458.40419964771485" y="0" width="0.9393026898892226" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.3435023376041" y="0" width="0.6564976623958797" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -511,7 +511,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="92.78278278278279 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="92.93793793793795 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -534,12 +534,12 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 66.8k out of 401m repositories</span>
+                                    <span class="gh">ranked 66.7k out of 401m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">599</div>
+                                        <div class="value">600</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 599 stars</div>
+                                <div class="text">Maintaining a repository with 600 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
