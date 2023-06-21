@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1926 Commits
+                            2213 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -59,20 +59,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 143mb of code in 9458 edited files across 1580 commits</small>
+                <small>estimation from 113mb of code in 10248 edited files across 1947 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="355.3683929008881" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="355.3683929008881" y="0" width="43.37031693395522" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="398.73870983484335" y="0" width="36.17174193604499" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="434.91045177088836" y="0" width="15.422398218795704" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="450.332849989684" y="0" width="4.198844613794573" height="8" fill="#a270ba"/>
-                    <rect mask="url(#languages-bar)" x="454.53169460347857" y="0" width="3.3080661051762865" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="457.83976070865486" y="0" width="1.2287864724337085" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="459.06854718108855" y="0" width="0.93145281891138" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="344.74970719797113" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="344.74970719797113" y="0" width="45.45922514074012" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="390.20893233871124" y="0" width="35.56586334666997" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="425.7747956853812" y="0" width="25.117318168917333" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="450.89211385429854" y="0" width="4.765086698478977" height="8" fill="#a270ba"/>
+                    <rect mask="url(#languages-bar)" x="455.65720055277757" y="0" width="2.337710612640357" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="457.9949111654179" y="0" width="1.1247091743087823" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="459.1196203397266" y="0" width="0.8803796602733571" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -107,9 +107,9 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        C
+                        TypeScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -119,9 +119,9 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Shell
+                        TSX
                     </div>
                 </div>
                 <div class="row footnote warning">
@@ -379,7 +379,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.5092402464065646 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.5941136208076863 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
