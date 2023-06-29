@@ -59,22 +59,28 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 63.3mb of code in 2302 edited files across 1130 commits</small>
+                <small>estimation from 67.6mb of code in 2338 edited files across 1140 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="237.80716912630078" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="237.80716912630078" y="0" width="140.78837654963837" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="378.59554567593915" y="0" width="34.883624267879476" height="8" fill="#a270ba"/>
-                    <rect mask="url(#languages-bar)" x="413.47916994381865" y="0" width="14.580706349197238" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="428.0598762930159" y="0" width="11.679987691304342" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="439.73986398432027" y="0" width="8.50620429449473" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="448.24606827881496" y="0" width="6.17115746518947" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="454.41722574400444" y="0" width="5.582774255995609" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="333.4907187318497" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="333.4907187318497" y="0" width="66.89504908445004" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="400.38576781629973" y="0" width="38.74700509962567" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="439.13277291592544" y="0" width="9.600479816062084" height="8" fill="#a270ba"/>
+                    <rect mask="url(#languages-bar)" x="448.73325273198753" y="0" width="4.012822060415617" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="452.74607479240314" y="0" width="3.214502175035534" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="455.9605769674387" y="0" width="2.34103090933107" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="458.3016078767698" y="0" width="1.698392123230315" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#DA5B0B" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Jupyter Notebook
+                    </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
@@ -116,12 +122,6 @@
                             <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TypeScript
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Vue
                     </div>
                 </div>
                 <div class="row footnote warning">
@@ -534,7 +534,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 65.7k out of 412m repositories</span>
+                                    <span class="gh">ranked 61.8k out of 412m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">623</div>
                                     </div>
