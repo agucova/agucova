@@ -59,20 +59,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 93.5mb of code in 8380 edited files across 1332 commits</small>
+                <small>estimation from 104mb of code in 9198 edited files across 1513 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="314.0076077572979" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="314.0076077572979" y="0" width="58.085079501223184" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="372.09268725852104" y="0" width="51.910233406057664" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="424.0029206645787" y="0" width="24.43519337047403" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="448.43811403505276" y="0" width="6.926992951027056" height="8" fill="#a270ba"/>
-                    <rect mask="url(#languages-bar)" x="455.3651069860798" y="0" width="2.027175572275687" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="457.39228255835553" y="0" width="1.536652985351241" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.9289355437068" y="0" width="1.071064456293259" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="361.02012854647216" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="361.02012854647216" y="0" width="39.97790882610133" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="400.9980373725735" y="0" width="36.2980582068442" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="437.29609557941774" y="0" width="15.610231387562429" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="452.90632696698015" y="0" width="4.2499833717088205" height="8" fill="#a270ba"/>
+                    <rect mask="url(#languages-bar)" x="457.15631033868897" y="0" width="1.2437521641231901" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="458.4000625028122" y="0" width="0.9427972111421289" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.3428597139543" y="0" width="0.6571402860457337" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -83,15 +83,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        JavaScript
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Python
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        JavaScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -201,7 +201,7 @@
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAQcCBQYDBP/EACsQAAEDAwEGBQUAAAAAAAAAAAECAwQABREhBhITMUGhBxUicdEyQmGBsf/EABcBAQADAAAAAAAAAAAAAAAAAAMAAgT/xAAbEQACAgMBAAAAAAAAAAAAAAAAAQIRAyFBUf/aAAwDAQACEQMRAD8AFQU4kKCSoBZ5DOtFXKs6nwxuL7Tk6RML016OuQ1ggEKxlBznOuo5DFZtdYkYuWkaKga4W1L7cCOmWoLkBsBxQ6nGtekioUJxmHpchtiM0t11RwlKRqa39vss+Ham0y08R8pKAlIyA0fsJ9z3qj2A9Nzkuj60MAA+7iEntTJDivLd3Omn8PwKLJ4JjdOxQ3WzTLYAp9vLR04g6fg1WGmptGd6PMZIHD3VjH7Pz2FKsmkg7QbP/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAAwEAACAQMDAQUFCQAAAAAAAAABAwIEBREAEiEGIjFBUWEHExVxsRQygZGhouHw8f/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAP/EAB4RAAICAgIDAAAAAAAAAAAAAAECAAMRIRMxIkFR/9oADAMBAAIRAxEAPwCOtRlSKe+EiklWTP0ImDD9/wCuqXon2tHpWlXRfZjcFxOVwmwQCzkk7OCfE/nqIqaedZY3xp5YmmJqCM98QMn6j8YaOg7FXGoprpNKGqcsmIlLiHePI+WpwQBky9UQ9jJlB7Qnjqi/3G/KKkwatfvKctyxeICGOOD/AHjS2lbN4m2Y3TnLMjjxwNPfhErbZL2l1pYWuWGGpLAQAJwPYGO7n56zWallKhBTFUiZHeZmWc/5jRtaBszJQWOFi2xIClXWorYlVOEhYk3IgeeR6/Ieem9tj8BsFFGhzUKmkNPOQDPtH665pcKh72GT3sZPH3pyydN+jLtVi1XClLNyUndCJ8M5yPlqm6jA7gUWeWfsrLxcYVFsg2nr3F7JBbE8w7BB9OYfzqCvt4udFXBNM0qUIAgAd/ros1e+oLffET2y3jI8cnWavuFS6pJlMDaNoEYgADRLT6i85O11P//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAP/xAAtEAABBAEDAwEGBwAAAAAAAAABAgMEEQUAEiEGEzEiFBUjUWGBMjNBYnGRof/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAAEC/8QAGxEAAgMBAQEAAAAAAAAAAAAAAAECAxEhEgT/2gAMAwEAAhEDEQA/AAfTHT6MnKcMhztRGE9x5Xg18h9Tp/hZfo5ovss42MGm2+33FRO4d3PFgGzVGrvSDlWcgmG1HxrThLrw5bJBQfnY++q1gsnk8bjlwIWJYDEZhazb1EqAsc+Df+XzpO6b9YMVJZogdS4zBZZlx/p9IQ+yne6hptYQP2EV6V8an64vq8ab+u/eEjNsPojIhyHCQ5V09x+ovmvAvQpyNtVSvOjUttdMWpJ8KTjYprczw4Pwn664ZV2dMw3ZxYbjc/EdEsoN3y3QI4/nW3FqKfGsebio9uRsKm+9sWrYao7VqsffV/RDiaJVLOAuOmTls1IXIYQ2IrQQ4Uqsbz4qx4q9D5cTa+oVpuhwmcTikx4gO1alOLUo2pSueSf60DlfnK0WqPmOA5vWf//Z" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAYHBf/EACsQAAEDAwMDAgYDAAAAAAAAAAECAwQABREGEiETMWEUMgcVIiNBsVGRof/EABcBAAMBAAAAAAAAAAAAAAAAAAEDBAL/xAAiEQABBAAFBQAAAAAAAAAAAAABAAIDERITITHBBAUiQWH/2gAMAwEAAhEDEQA/AK7argzd4/VgPNutjHt80LqO8xrH6dmaCXX89NpoZWcdzSDojUSbTahCj9be3tz1hlSvxkccDjtWd8R700/dbNNEhBuCXPTpa3FASlfYr4AByOMnmiZC5vjuooommXDJdKoxQq5QRIgglokg54II7g0K5apG87tmfKqX3dRmwvfKes23NU36gs7cYyBgEjjOP15oJV/vbx6jU6OlCuQOp2/ytunwNGZoUqWMtkIZspppLVUSxIQ7IhyFuJUpYLSRhefwcjP9Us66ubz+przMOHGnnGllskEYKEYGfHahpTCVtbllSjuJ5Pmsa0YdvK4SwDHU3tKfGd37o9FE3Nx+yK5VUo0tMMO5yBIhyQHF/ebQVEklsDgZ8YAFO829ssSFNvNl5Q7K3L7fxSJprC3YreAlPVA+niqROskMyVgpWcHHuod1jbbSfvCQ19L/2Q==" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIBQP/xAAsEAABAwMDBAEBCQAAAAAAAAABAgMRAAQFBhIhEzFBYQcUCCJRcYGRsdHw/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQAAQL/xAAcEQACAgMBAQAAAAAAAAAAAAABAgAhAxESIjH/2gAMAwEAAhEDEQA/AGjph24TeLB++wIEg79pjz6gdq1tR5CwZIZfuUBZcC0tNq9DkxzXFq1Xp9yzYS11OtJc4MIIHAB896W2sA+3qp1x53Z1k70kKCBAAHnzI/00hh8Abh8WPujDlb7V0pCwiUHmAew5rfTZpU00UnjYKEMe11bGzIcbKyD2PbmI/Oipl/a2BNN8BrECdqdQe+ZtcW2l9OIuUW4cyLrnStQ5BgxyT6HHHmRU84/X2b+tuL/LJZyK3SC2HRAaiY2RwO9EH2mXnF3uCZWoqbSh1YB/GU/0KWFs+tVm3ug1eBEddkSdlbEP8dr7N2V19ahTfTecLrjBTLaeJMcyP3qgMA4nP4OwybCEFu4ZC43E7T5T+hmpSIC8Q+pQBKW1EeuKevwZcuu6I2uLJDdytCfQ2pP8k0w6ACpn7c//2Q==" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
