@@ -54,50 +54,32 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    44 Languages
+                    26 Languages
                 </h2>
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 72.9mb of code in 2494 edited files across 1189 commits</small>
+                <small>estimation from 9.32mb of code in 1249 edited files across 473 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="361.31713121300584" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="361.31713121300584" y="0" width="55.292067655233566" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="416.6091988682394" y="0" width="28.116688102916008" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="444.7258869711554" y="0" width="7.07458140840859" height="8" fill="#a270ba"/>
-                    <rect mask="url(#languages-bar)" x="451.80046837956394" y="0" width="2.911896441934211" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="454.71236482149817" y="0" width="2.332597186007866" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="457.044962007506" y="0" width="1.7226030860402666" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.76756509354624" y="0" width="1.2324349064536448" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="179.3059888019693" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="179.3059888019693" y="0" width="158.60876992858417" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="337.91475873055344" y="0" width="90.73601732865517" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="428.6507760592086" y="0" width="15.025544268622989" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="443.6763203278316" y="0" width="6.584348346335231" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="450.2606686741668" y="0" width="4.827803697476568" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="455.08847237164343" y="0" width="2.612020853493933" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="457.7004932251374" y="0" width="2.2995067748626377" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#DA5B0B" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Jupyter Notebook
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Python
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3D6117" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TeX
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#a270ba" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Julia
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -107,21 +89,39 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Rust
+                        Python
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Shell
+                        Julia
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        TypeScript
+                        TSX
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        PLpgSQL
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Dockerfile
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#c6538c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        SCSS
                     </div>
                 </div>
                 <div class="row footnote warning">
@@ -142,7 +142,7 @@
                 </h2>
                 <div class="row">
                     <section class="people">
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAACAcCBAb/xAAuEAABAwMDAwIEBwEAAAAAAAABAgMEBQYRABIhBzFBFGEIE3GBFiIyQlFScpH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AvHUe4/wjY9ZroQFuQmCttB7Fw8JB9txGgdNvS4rhqL0yr1mdJfCw+kF4hKCD+1I4T9tJv4qbuhsW0LQbcBm1DbIknPEZhtYUCv8A0oAAfX2BPd6dNa5Z7NJfSwzJjVVvY07FkiSkqOPy5CU4P/R76CpfCz1MrMy6Ta1cqD8+LJZW5FXIcLjjS0JyQFHnaUhXHjAx50rNCWHb07ovfNtVqroYckNpU+9Djyw66GigodBTtGCErz3IPg4BIZ9MnxapTos+A8iRDktpdZdQeFoIyDoA/e9HvC9rpr0+Pb9VkSZE9wOoRGUv5DTR2NtlXbPfI87QdY0S1X6mxLFTCqcpmM8EOpQUqkOg4G4HktccrHOcgZwdOzATnaANx51xd2dOqHcUmPJe9XCdZSM+id+WHE/0UMEY+mD76AZu2rdNRmeppNtS3RCUN7MVhbgGQDzjO4K8EfqH86uPRG6blt60ZFHatKqVeLCmutx3dmC22QlYbPuCon2zjxpCwKZDpTHp4EdDLbbYQnaOSB2ye5++trYkdkjQf//Z" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEAElEQVR4nLXWW0wTdhTHcR+3ZNmyBXVjThkOBKcREKcg4BWKyLiItFxqgYKCDGhpoS3lUlnpsEKLQItOBwIbBJEoiriMTKNI5rywizd06BwLuzO3zinrlHwXsixZ4h6A0fPwf/vnk/xz/r9zZtjt9jEmUW/kmjlU24jSsJ++q0OTucq4NWPSYFYxteYm1BX7OPnJoOPBjPQCTDsbyTfvpbP3iuPBFEk+ek0jqupmmo+fdzwojspBp2ih0NpGVetpx4Obg6RUKOopsHahtXY7Fhx9+BBJpILdaiPZuw6Tpm93LPilzYZSV02Z4i1Si94jSv62Y8Hua4OYD3WxNUGNUFXP5rQyRn695zhQWWimv+M4om0lrJNZ0BVX0dVzzjHgn4/GiExU8cORd0iQ7cA/20KLdQ+5GqNjwN7rQ6j1Rvrqm1gtykGg3Mt+nZV1YRLuj/4x/aBYVUebRsbZD4+xICyTDXIrlvxahOFxNB0+Pb1g+6mreCwJY/DMUcTJUryFRQRE61GX7sWww4hXUAIjd23/HxwD3j1znbnL40jLyeCg1UyCRoOrqJRgoQ5pnpHtsiJe9t5AQFQ234z8Mjnwgf0hQz/Z+Oyr7zl68QZi00FmrZPzhOfrLPBZi4tXFK6rUnAKVjM3WIXL+lxm+cTzpEsITp4heEQXomvu49hHg1y+8x0jtt95NDb232DXjVtEyqqITi9kk7aUjdqdbCjcxVZTJX6JcpZsymZ+cCqu69NxXrONl0LTcQ6U8GJAIm4haazO2om0ugGl5QAlNftQlJpYk2LAM1zNpZvDj4OdQ7fx8FXi7bwCd78YXpOV4Sau58hAI+GySuLLKwjM1PNCTCVP+8uZGaJkTrQW95QKgkpbEdQcJ7X1EtL9PSRVd7HZeICFSbt5zjeJize/fRwcP74eHqH/wmXaT5xFpDThujKRkE0i3PwSecVPiEugGCcfCc8skvCs1xZmB25nniCH+eF5zNtYhEdMOZ4RRchMLbx//gY3h0e4P2qfeNO0dfbw/IJVPOX0KnOWhCIIyyQqIhbnxTHMXJrMbIGMeWHJLIzLwT0iF1+RjlOffjH1Lh2v/mu3WRoUz4pQIYaKOk5adAQJElkckYlrbB4+qXK8JRpitXX8+LNtev7hlYFBlgUK0TY00mksR5otx0ukYJFYxVqtgXBVLbZ/Pd20JE1N3QGiIpM58UEHxVkyfJPU+Gdo8Eox0D8wse3NPhnw3v0H5NdZKJGbsFaUs3KLgsBUFbl7OiaETWk8GQ3V6K1mKlUFLBPJ8css5dyFzx0H3rX9RqbmTcqKS1gel49YYZowxlSXqIa2bnRmPd6RUm7d+TtBHAqOZ6PF2kB378eTwv4B/wJ9vbHo148x/AAAAABJRU5ErkJggg==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAACAAGBAUH/8QALRAAAQQBAgQEBQUAAAAAAAAAAQIDBBEFABIGEyExB0FRYRRxkaHwIiQyUoL/xAAYAQADAQEAAAAAAAAAAAAAAAABAgQAA//EAB0RAAEEAwEBAAAAAAAAAAAAAAABAgMREiExBDL/2gAMAwEAAhEDEQA/ADDHaLqglsU+myB/auv1/PnZ4U6M9w6ziDiYyX1SxJOQ68wITdt9uncj/I6eeqqw068+gJH6lr2hSjQs+pOlRhfAVGA4fbmcQZ1tuc0rnvBlnegAI6hHY35XRuh00zKvfDKG7JYRUNlb/LcUylPZSh0VYHWvn7dtV/S98ReATOw7ogRS64L5ikjYvpYoi67+eihlIMjF5KVAlDZIjOqacTfZSTR1R6WMbTo+KcmPsT/Bng6JbU9OcwkrGllxAaZVKakNvD0P8tvvVEdKOutcQ8T4/GOx4WY/YSHUnlO0OU4ABf5Rr3GhW/4hcWTIDkaTxBknY4TfLVIXtv1q9YubzmVkw8PKlZCS+9ES4yyp1e/YkLChV+6z9B6am+eDKmWlFlxJxFioOMl5Bl8iM02XFPtPU2vp22A1v+91oa57JLy+bn5F1NLlPreI9NxutbFrijNMO/Gonul4o5JCwFJ2baraRX21OLIEeJlajo5aHEBzYOySSeg9umjJJdICGLFVP//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYIAf/EAC0QAAEDAwIFAwIHAAAAAAAAAAECAwQABREGIQcTMUFREhRhIjJCQ3GBkcHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/8QAHREAAgIDAQEBAAAAAAAAAAAAAQMAAgQREnETQf/aAAwDAQACEQMRAD8A6u0NTdPPstpy6Rtir+xSHY7nJlqWGm05ITFKED4Cyd/4o0g3pUaOhTCgFjz0PkUpruapFqiPxEocQUhZVsdsdMGoZC+NS+Df6bH7Cfi5IE7lOnC44cH5akLAIPnY/saFJ6WmZBSuL6z1zkb70ucZL0huzW6C5y2ncEqHq3AG1DSn4iiThSs98daSKCw2Ysi3NyBKC56mUppyPBJ6YLv+VoHhW9FvmhrcqFJdamxGhHeS0rfI2GRv2xWa9DxGZusbJFkp9bD8xttaT3TkbUt63B0BfmL1pkmM7Mxzo5+phX4vt/X5rS5QvTyZEM4v7IfjLDTH1Z7YqWsoYQFFRyc5J/upNgMpaAeDqljugDFLPDiEzr7VdxvOp0+7kMcpaWsANK2GElPcDx375qU4oWeJYtb3KBbUqbioWChBVkJyM4HxVFqAoBA1pLDP/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAcGCAEDBf/EACkQAAECBQMDBAMBAAAAAAAAAAECAwAEBREhBhIxEyJRB5Gx0RQyNOH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgD/xAAZEQACAwEAAAAAAAAAAAAAAAAAEQESEyH/2gAMAwEAAhEDEQA/ADdMToq9RDc0sy7t9iSE4QQSLAn5h4UOdl6NSmRPTAHVXtSVYuYrnT6e8lpClTDYc523Iubnn5gP1F1NO0WQpg2tTIDl284QU2PnBycwaPg0HP6jeoKqe6uUpqk9qkXWDybgkf7EWqGpTNTS3kKQ3u5HV5PniIQ6w7WaJKTwdQhb7KHS2TnIBAz4gxVLmnnFr/Ma2k9o6f6i3ERqjUFh03rDudv5JMcfUYdCWAd5Fze94sZN6bpaJcrTKNbrWv00/UDTuiqJOyy1vSoBbS4lISEgDHPHMRHJYiTYB6Qy7awsATiM2dGN8wPeHvLaSo6JdtIlUHt5KU3+I2K0rSr/AM49k/UCFn//2Q==" width="28" height="28" alt="" />
