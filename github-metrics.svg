@@ -224,7 +224,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="350.0933333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="350.29999999999995 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -243,10 +243,10 @@
                                     <span class="prefix">Master</span>
                                     stargazer
                                     <div class="value-wrapper">
-                                        <div class="value">4388</div>
+                                        <div class="value">4390</div>
                                     </div>
                                 </div>
-                                <div class="text">Starred 4388 repositories</div>
+                                <div class="text">Starred 4390 repositories</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -505,7 +505,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 63.2k out of 51.2m repositories</span>
+                                    <span class="gh">ranked 63.2k out of 47.9m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">671</div>
                                     </div>
