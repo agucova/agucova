@@ -59,7 +59,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 143mb of code in 9465 edited files across 1571 commits</small>
+                <small>estimation from 143mb of code in 9466 edited files across 1572 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -578,7 +578,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 63.1k out of 61.8m repositories</span>
+                                    <span class="gh">ranked 63.1k out of 62.6m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">673</div>
                                     </div>
@@ -627,7 +627,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 228k out of 61.8m repositories</span>
+                                    <span class="gh">ranked 228k out of 62.6m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">52</div>
                                     </div>
