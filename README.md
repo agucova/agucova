@@ -1,5 +1,5 @@
 ### Hi there, I'm Agustín 👋
-I'm a student and open sourcerer that does a bit of everything, nothing specially well. I'm from Chile (🇨🇱) and I'm currently studying engineering at [UC | Chile](https://www.uc.cl/en).
+I'm an open sourcerer that does a bit of everything, nothing especially well.
 
 See my [website](https://agucova.dev) for more details.
 
