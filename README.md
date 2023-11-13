@@ -8,18 +8,9 @@ See my [website](https://agucova.dev) for more details.
 My pronouns are *he/him*.
 
 ## How to reach me
-<a href="https://t.me/agucova">
-  <img alt="Agustín's Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="https://twitter.com/austinc3301">
-  <img alt="Agustín's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/agucova/">
-  <img alt="Agustín's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+You can reach me through [Telegram](https://t.me/agucova), an [OpenPGP-encrypted email](https://agucova.dev/pgp/) (if you're that kind of person), or [Keybase](https://keybase.io/agucova) (insofar as it's still working).
 
-<br/>
-
-<p align="center">
+Also, hey! You're visitor number:
+<p align="left">
     <img src="https://profile-counter.glitch.me/agucova/count.svg" />
 </p>
