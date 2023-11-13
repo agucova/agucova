@@ -1,4 +1,4 @@
-### Hi there, I'm Agustín 👋
+### Hi there, I'm Agus 👋
 I'm an open sourcerer that does a bit of everything, nothing especially well.
 
 See my [website](https://agucova.dev) for more details.
