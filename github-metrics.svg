@@ -59,17 +59,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 5.17mb of code in 1249 edited files across 444 commits</small>
+                <small>estimation from 5.15mb of code in 1247 edited files across 442 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="186.28758972669166" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="186.28758972669166" y="0" width="141.52792807635709" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="186.28758972669166" y="0" width="141.52792807635709" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="327.8155178030487" y="0" width="98.36842519124843" height="8" fill="#ededed"/>
                     <rect mask="url(#languages-bar)" x="426.1839429942971" y="0" width="15.16792043765282" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="441.35186343195" y="0" width="8.529586873410944" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="441.35186343195" y="0" width="8.529586873410944" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="449.8814503053609" y="0" width="5.015782911020329" height="8" fill="#ededed"/>
                     <rect mask="url(#languages-bar)" x="454.89723321638127" y="0" width="2.713724579777654" height="8" fill="#ededed"/>
                     <rect mask="url(#languages-bar)" x="457.6109577961589" y="0" width="2.3890422038410697" height="8" fill="#ededed"/>
@@ -83,7 +83,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         JavaScript
                     </div>
@@ -101,7 +101,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TSX
                     </div>
@@ -505,7 +505,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 61.4k out of 64.1m repositories</span>
+                                    <span class="gh">ranked 61.4k out of 57.1m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">709</div>
                                     </div>
