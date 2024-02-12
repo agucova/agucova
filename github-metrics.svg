@@ -555,7 +555,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="121.48648648648648 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="121.64164164164164 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -580,10 +580,10 @@
                                     Maintainer
                                     <span class="gh">ranked 57.6k out of 158m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">784</div>
+                                        <div class="value">785</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 784 stars</div>
+                                <div class="text">Maintaining a repository with 785 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
