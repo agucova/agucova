@@ -59,7 +59,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 143mb of code in 9304 edited files across 1663 commits</small>
+                <small>estimation from 143mb of code in 9303 edited files across 1662 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -361,7 +361,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 85.5k out of 133m users</span>
+                                    <span class="gh">ranked 85.5k out of 135m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">150</div>
                                     </div>
@@ -493,7 +493,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 32.5k out of 133m users</span>
+                                    <span class="gh">ranked 32.5k out of 135m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">270</div>
                                     </div>
