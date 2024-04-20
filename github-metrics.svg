@@ -59,7 +59,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 144mb of code in 9241 edited files across 1643 commits</small>
+                <small>estimation from 144mb of code in 9242 edited files across 1644 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -224,7 +224,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="361.3566666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="361.5633333333334 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -243,10 +243,10 @@
                                     <span class="prefix">Master</span>
                                     stargazer
                                     <div class="value-wrapper">
-                                        <div class="value">4497</div>
+                                        <div class="value">4499</div>
                                     </div>
                                 </div>
-                                <div class="text">Starred 4497 repositories</div>
+                                <div class="text">Starred 4499 repositories</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -361,7 +361,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 84.7k out of 135m users</span>
+                                    <span class="gh">ranked 84.7k out of 132m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">151</div>
                                     </div>
@@ -493,7 +493,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 32.4k out of 135m users</span>
+                                    <span class="gh">ranked 32.4k out of 132m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">271</div>
                                     </div>
