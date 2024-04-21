@@ -59,20 +59,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 38.5mb of code in 8278 edited files across 1375 commits</small>
+                <small>estimation from 144mb of code in 9242 edited files across 1644 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="331.94381686546427" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="331.94381686546427" y="0" width="62.63944491350094" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="394.5832617789652" y="0" width="35.91029354432105" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="430.4935553232863" y="0" width="17.17393332169329" height="8" fill="#a270ba"/>
-                    <rect mask="url(#languages-bar)" x="447.6674886449796" y="0" width="6.757350566973693" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="454.42483921195327" y="0" width="2.4330334826607225" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="456.857872694614" y="0" width="1.8378127563699331" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.69568545098394" y="0" width="1.3043145490161374" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="349.9819279543267" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="349.9819279543267" y="0" width="41.187314554699554" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="391.1692425090263" y="0" width="35.7438892317656" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="426.91313174079187" y="0" width="17.795857593655025" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="444.70898933444687" y="0" width="9.612590669884163" height="8" fill="#a270ba"/>
+                    <rect mask="url(#languages-bar)" x="454.321580004331" y="0" width="3.482283006552139" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="457.8038630108831" y="0" width="1.2057244066965302" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="459.00958741757967" y="0" width="0.9904125824202983" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -89,6 +89,12 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        JavaScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#3D6117" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TeX
@@ -101,9 +107,9 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        JavaScript
+                        C
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -116,12 +122,6 @@
                             <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Shell
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        TypeScript
                     </div>
                 </div>
                 <div class="row footnote warning">
@@ -534,7 +534,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 53.3k out of 204m repositories</span>
+                                    <span class="gh">ranked 53.3k out of 189m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">874</div>
                                     </div>
@@ -627,7 +627,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 207k out of 204m repositories</span>
+                                    <span class="gh">ranked 207k out of 189m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">61</div>
                                     </div>
