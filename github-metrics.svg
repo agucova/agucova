@@ -59,7 +59,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 144mb of code in 9326 edited files across 1675 commits</small>
+                <small>estimation from 144mb of code in 9327 edited files across 1676 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -511,7 +511,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="136.07107107107106 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="136.22622622622623 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -534,12 +534,12 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 53.1k out of 202m repositories</span>
+                                    <span class="gh">ranked 53.1k out of 194m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">878</div>
+                                        <div class="value">879</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 878 stars</div>
+                                <div class="text">Maintaining a repository with 879 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -627,7 +627,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 207k out of 202m repositories</span>
+                                    <span class="gh">ranked 207k out of 194m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">61</div>
                                     </div>
