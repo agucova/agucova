@@ -59,7 +59,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 144mb of code in 9312 edited files across 1649 commits</small>
+                <small>estimation from 144mb of code in 9313 edited files across 1650 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -493,7 +493,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 32.3k out of 137m users</span>
+                                    <span class="gh">ranked 32.4k out of 137m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">276</div>
                                     </div>
@@ -534,7 +534,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 51.8k out of 207m repositories</span>
+                                    <span class="gh">ranked 51.8k out of 206m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">913</div>
                                     </div>
@@ -627,7 +627,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 202k out of 207m repositories</span>
+                                    <span class="gh">ranked 202k out of 206m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">63</div>
                                     </div>
