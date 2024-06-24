@@ -59,16 +59,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 390kb of code in 242 edited files across 81 commits</small>
+                <small>estimation from 416kb of code in 255 edited files across 87 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="441.67982646420825" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="441.67982646420825" y="0" width="13.486237647625934" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="455.1660641118342" y="0" width="3.938105567606652" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.1041696794408" y="0" width="0.8958303205591709" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="436.8730759333212" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="436.8730759333212" y="0" width="17.30902297919387" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="454.18209891251513" y="0" width="4.932282383888831" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.11438129640396" y="0" width="0.8856187035960389" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -433,7 +433,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 51k out of 212m repositories</span>
+                                    <span class="gh">ranked 51k out of 211m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">939</div>
                                     </div>
